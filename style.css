@@ -11,8 +11,10 @@ html {
   
 }
 
-.nav-button,  {
-  margin: 5px -200px;
+.nav-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
 }
 .register-button {
   margin: 50px 180px;
