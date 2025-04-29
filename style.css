@@ -14,7 +14,9 @@ html {
 .nav-button {
   position: absolute;
   top: 20px;
-  left: 20px;
+  left: 20px; 
+ 
+ 
 }
 .register-button {
   position: absolute;
