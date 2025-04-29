@@ -43,9 +43,6 @@ html {
 
 .input-group {
   margin: 20px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .input-group input {
