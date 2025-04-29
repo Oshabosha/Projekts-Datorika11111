@@ -150,6 +150,12 @@ body {
   margin: 0 auto;
 }
 
+.register-corner {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
 .submit-button button {
   background-color: #00BCD4;
   color: white;
