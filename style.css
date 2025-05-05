@@ -34,6 +34,18 @@ body {
   align-items: center;
 }
 
+.middle-link {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0.5rem 2rem;
+  background-color: #00eaff;
+  color: black;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
 .contact-link {
   position: absolute;
   top: 10px;
