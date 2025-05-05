@@ -34,11 +34,22 @@ body {
   align-items: center;
 }
 
+.left-link {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  padding: 0.5rem 2rem;
+  background-color: #00eaff;
+  color: black;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
 .middle-link {
   position: absolute;
   top: 10px;
   left: 50%;
-  transform: translateX(calc(-50% + 80px));
+  transform: translateX(-50%);
   padding: 0.5rem 2rem;
   background-color: #00eaff;
   color: black;
